@@ -146,6 +146,12 @@ Port 2222  # опційно
 sudo systemctl restart sshd
 ```
 
+Або
+
+```bash
+sudo systemctl restart ssh
+```
+
 ### 2FA/MFA для SSH
 
 #### Навіщо це потрібно
